@@ -6,7 +6,7 @@ console.log(path.basename(__filename))
 // Directory name
 console.log(path.dirname(__filename))
 
-// file Extension
+// File Extension
 console.log(path.extname(__filename))
 
 // Create Path objct

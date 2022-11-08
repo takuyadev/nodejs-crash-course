@@ -15,6 +15,8 @@ console.log(os.freemem())
 // Total Memory
 console.log(os.totalmem())
 
+// Home Direcory
 console.log(os.homedir())
 
+// Computer uptime
 console.log(os.uptime())
